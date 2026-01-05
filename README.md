@@ -26,14 +26,17 @@ Simple web application built with **React**.
 
 ---
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyaal-ademi&show_icons=true&theme=github_dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yahyaal-ademi&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ---
 
 ## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaal-ademi&layout=compact&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yahyaal-ademi&layout=compact&theme=github_dark&cache_seconds=1800)
 
+---
 
+## 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api?username=yahyaal-ademi&show_icons=true&theme=github_dark&hide=stars,commits,prs,issues,contribs&show=reviews,discussions_started)
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yahya-al-ademi/)  
