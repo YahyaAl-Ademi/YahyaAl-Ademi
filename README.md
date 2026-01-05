@@ -26,12 +26,13 @@ Simple web application built with **React**.
 
 ---
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahyaAl-Ademi&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyaal-ademi&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ---
 
 ## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaAl-Ademi&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaal-ademi&layout=compact&cache_seconds=1800)
+
 
 ## 📫 Connect with Me
 
