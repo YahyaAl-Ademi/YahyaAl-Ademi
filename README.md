@@ -10,21 +10,7 @@ Trained at [HackYourFuture](https://www.hackyourfuture.net/) and experienced in 
 
 ---
 
-## 📂 Featured Projects
 
-### [JobCompass](https://c53-group-a-c9d329617607.herokuapp.com/)  
-Full-Stack job search platform with React frontend, Node.js & PostgreSQL backend, integrating Google Maps and RapidAPI.  
-
-### [Weather App](https://weatherapp102025.netlify.app/)  
-Responsive weather application using React + Vite with dynamic backgrounds and OpenWeatherMap API.  
-
-### [Qius App](https://qius-app-2025.netlify.app/)  
-Simple interactive web application built with **vanilla JavaScrip**.  
-
-### [eCommerce App](https://yahya-simple-ecommerce.netlify.app/)  
-Simple web application built with **React**. 
-
----
 ## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yahyaal-ademi&show_icons=true&theme=github_dark&cache_seconds=1800)
 
