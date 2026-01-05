@@ -13,5 +13,3 @@
 
 ---
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api?username=yahyaal-ademi&show_icons=true&theme=github_dark&hide=stars,commits,prs,issues,contribs&show=reviews,discussions_started)
